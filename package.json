@@ -1,0 +1,33 @@
+{
+  "name": "codecraftwhisper",
+  "version": "1.0.2",
+  "description": "codecraftwhisper",
+  "type": "module",
+  "main": "codecraftwhisper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathewamariannab1923/codecraftwhisper"
+  },
+  "website": "https://github.com/mathewamariannab1923/codecraftwhisper.git",
+  "keywords": [
+    "codecraftwhisper"
+  ],
+  "author": "mathewamariannab1923",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathewamariannab1923/codecraftwhisper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/mathewamariannab1923/codecraftwhisper#readme",
+  "dependencies": {
+    "programdevsavvy": "1.0.2",
+    "devscriptgenius": "1.0.2",
+    "programscriptmaster": "1.0.2"
+  }
+}
